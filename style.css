@@ -1,3 +1,29 @@
+#head {
+    background-image: url(images/1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+
+
+
+}
+
+#head h1 {
+    font-size: 50px;
+    color: white;
+    margin-left: 10px;
+}
+
+#head p {
+    color: white;
+}
+
+
 body {
     font-family: 'Poppins', sans-serif;
 }
@@ -57,7 +83,8 @@ h1 {
 
 .footer {
     text-align: center;
-    background-color: hotpink;
+    color: white;
+    background-color: black;
 
 
 }
