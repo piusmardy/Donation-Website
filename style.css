@@ -32,6 +32,7 @@ h1 {
     color: white;
     font-weight: 400;
     border-radius: 5px;
+
 }
 
 .donate-plan {
@@ -51,6 +52,7 @@ h1 {
 .donation-plan {
     text-align: center;
 
+
 }
 
 .footer {
@@ -58,4 +60,27 @@ h1 {
     background-color: hotpink;
 
 
+}
+
+.updates {
+    text-align: center;
+}
+
+.dollar {
+
+    width: 10%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 30px;
+    box-shadow: 10px 10px 40px black;
+    border-radius: 5px;
+    size: 20px;
+}
+
+.amount {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
 }
